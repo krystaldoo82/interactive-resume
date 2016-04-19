@@ -26,3 +26,18 @@ body {
 p {
 	color: #888;
 }
+
+.thumbnail {
+	background-color: black;
+	padding: 10px;
+	margin: 20px 5px;
+}
+
+.title {
+	text-align: center;
+	border-bottom: 1px solid #888;
+	padding-bottom: 5px;
+}
+.boxes {
+	padding: 0;
+}
