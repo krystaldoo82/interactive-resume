@@ -41,3 +41,25 @@ p {
 .boxes {
 	padding: 0;
 }
+.contact {
+	text-align: center;
+	border: 1px solid #888;
+	padding-left: 30px;
+	
+
+}
+
+.contact h2 {
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+
+.contact a {
+	color: #66e0ff;
+	text-decoration: none;
+}
+
+.hire {
+	margin: 0;
+	padding-left: 40px;
+}
