@@ -2,7 +2,7 @@
 
 .name {
 	color: black;
-	font-size: 3em;
+	font-size: 5em;
 	font-family: 'Dancing Script', cursive;
 }
 
@@ -25,6 +25,7 @@ body {
 
 p {
 	color: #888;
+	font-size: 1.5em;
 }
 
 .thumbnail {
@@ -62,4 +63,16 @@ p {
 .hire {
 	margin: 0;
 	padding-left: 40px;
+}
+
+@media(min-width: 800px) {
+	.name {
+		font-size: 8em;
+	}
+}
+
+@media(max-width: 2em){
+	.name {
+		font-size: 2.5em;
+	}
 }
